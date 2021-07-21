@@ -1,83 +1,83 @@
 @font-face {
     font-family: 'Source Sans Pro';
-    src: local('Source Sans Pro ExtraLight'), local('SourceSansPro-ExtraLight'), url(./fonts/sourcesanspro/sourcesansproextralight.woff2) format('woff2'), url(./fonts/sourcesanspro/sourcesansproextralight.woff) format('woff'), url(./fonts/sourcesanspro/sourcesansproextralight.ttf) format('truetype');
+    src: local('Source Sans Pro ExtraLight'), local('SourceSansPro-ExtraLight'), url(../fonts/sourcesanspro/sourcesansproextralight.woff2) format('woff2'), url(../fonts/sourcesanspro/sourcesansproextralight.woff) format('woff'), url(../fonts/sourcesanspro/sourcesansproextralight.ttf) format('truetype');
     font-weight: 200;
     font-style: normal
 }
 
 @font-face {
     font-family: 'Source Sans Pro';
-    src: local('Source Sans Pro ExtraLight Italic'), local('SourceSansPro-ExtraLightIt'), url(./fonts/sourcesanspro/sourcesansproextralightitalic.woff2) format('woff2'), url(./fonts/sourcesanspro/sourcesansproextralightitalic.woff) format('woff'), url(./fonts/sourcesanspro/sourcesansproextralightitalic.ttf) format('truetype');
+    src: local('Source Sans Pro ExtraLight Italic'), local('SourceSansPro-ExtraLightIt'), url(../fonts/sourcesanspro/sourcesansproextralightitalic.woff2) format('woff2'), url(../fonts/sourcesanspro/sourcesansproextralightitalic.woff) format('woff'), url(../fonts/sourcesanspro/sourcesansproextralightitalic.ttf) format('truetype');
     font-weight: 200;
     font-style: italic
 }
 
 @font-face {
     font-family: 'Source Sans Pro';
-    src: local('Source Sans Pro Light'), local('SourceSansPro-Light'), url(./fonts/sourcesanspro/sourcesansprolight.woff2) format('woff2'), url(./fonts/sourcesanspro/sourcesansprolight.woff) format('woff'), url(./fonts/sourcesanspro/sourcesansprolight.ttf) format('truetype');
+    src: local('Source Sans Pro Light'), local('SourceSansPro-Light'), url(../fonts/sourcesanspro/sourcesansprolight.woff2) format('woff2'), url(../fonts/sourcesanspro/sourcesansprolight.woff) format('woff'), url(../fonts/sourcesanspro/sourcesansprolight.ttf) format('truetype');
     font-weight: 300;
     font-style: normal
 }
 
 @font-face {
     font-family: 'Source Sans Pro';
-    src: local('Source Sans Pro Light Italic'), local('SourceSansPro-LightIt'), url(./fonts/sourcesanspro/sourcesansprolightitalic.woff2) format('woff2'), url(./fonts/sourcesanspro/sourcesansprolightitalic.woff) format('woff'), url(./fonts/sourcesanspro/sourcesansprolightitalic.ttf) format('truetype');
+    src: local('Source Sans Pro Light Italic'), local('SourceSansPro-LightIt'), url(../fonts/sourcesanspro/sourcesansprolightitalic.woff2) format('woff2'), url(../fonts/sourcesanspro/sourcesansprolightitalic.woff) format('woff'), url(../fonts/sourcesanspro/sourcesansprolightitalic.ttf) format('truetype');
     font-weight: 300;
     font-style: italic
 }
 
 @font-face {
     font-family: 'Source Sans Pro';
-    src: local('Source Sans Pro'), local('SourceSansPro-Regular'), url(./fonts/sourcesanspro/sourcesanspro.woff2) format('woff2'), url(./fonts/sourcesanspro/sourcesanspro.woff) format('woff'), url(./fonts/sourcesanspro/sourcesanspro.ttf) format('truetype');
+    src: local('Source Sans Pro'), local('SourceSansPro-Regular'), url(../fonts/sourcesanspro/sourcesanspro.woff2) format('woff2'), url(../fonts/sourcesanspro/sourcesanspro.woff) format('woff'), url(../fonts/sourcesanspro/sourcesanspro.ttf) format('truetype');
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
     font-family: 'Source Sans Pro';
-    src: local('Source Sans Pro Italic'), local('SourceSansPro-It'), url(./fonts/sourcesanspro/sourcesansproitalic.woff2) format('woff2'), url(./fonts/sourcesanspro/sourcesansproitalic.woff) format('woff'), url(./fonts/sourcesanspro/sourcesansproitalic.ttf) format('truetype');
+    src: local('Source Sans Pro Italic'), local('SourceSansPro-It'), url(../fonts/sourcesanspro/sourcesansproitalic.woff2) format('woff2'), url(../fonts/sourcesanspro/sourcesansproitalic.woff) format('woff'), url(../fonts/sourcesanspro/sourcesansproitalic.ttf) format('truetype');
     font-weight: 400;
     font-style: italic
 }
 
 @font-face {
     font-family: 'Source Sans Pro';
-    src: local('Source Sans Pro Semibold'), local('SourceSansPro-Semibold'), url(./fonts/sourcesanspro/sourcesansprosemibold.woff2) format('woff2'), url(./fonts/sourcesanspro/sourcesansprosemibold.woff) format('woff'), url(./fonts/sourcesanspro/sourcesansprosemibold.ttf) format('truetype');
+    src: local('Source Sans Pro Semibold'), local('SourceSansPro-Semibold'), url(../fonts/sourcesanspro/sourcesansprosemibold.woff2) format('woff2'), url(../fonts/sourcesanspro/sourcesansprosemibold.woff) format('woff'), url(../fonts/sourcesanspro/sourcesansprosemibold.ttf) format('truetype');
     font-weight: 600;
     font-style: normal
 }
 
 @font-face {
     font-family: 'Source Sans Pro';
-    src: local('Source Sans Pro Semibold Italic'), local('SourceSansPro-SemiboldIt'), url(./fonts/sourcesanspro/sourcesansprosemibolditalic.woff2) format('woff2'), url(./fonts/sourcesanspro/sourcesansprosemibolditalic.woff) format('woff'), url(./fonts/sourcesanspro/sourcesansprosemibolditalic.ttf) format('truetype');
+    src: local('Source Sans Pro Semibold Italic'), local('SourceSansPro-SemiboldIt'), url(../fonts/sourcesanspro/sourcesansprosemibolditalic.woff2) format('woff2'), url(../fonts/sourcesanspro/sourcesansprosemibolditalic.woff) format('woff'), url(../fonts/sourcesanspro/sourcesansprosemibolditalic.ttf) format('truetype');
     font-weight: 600;
     font-style: italic
 }
 
 @font-face {
     font-family: 'Source Sans Pro';
-    src: local('Source Sans Pro Bold'), local('SourceSansPro-Bold'), url(./fonts/sourcesanspro/sourcesansprobold.woff2) format('woff2'), url(./fonts/sourcesanspro/sourcesansprobold.woff) format('woff'), url(./fonts/sourcesanspro/sourcesansprobold.ttf) format('truetype');
+    src: local('Source Sans Pro Bold'), local('SourceSansPro-Bold'), url(../fonts/sourcesanspro/sourcesansprobold.woff2) format('woff2'), url(../fonts/sourcesanspro/sourcesansprobold.woff) format('woff'), url(../fonts/sourcesanspro/sourcesansprobold.ttf) format('truetype');
     font-weight: 700;
     font-style: normal
 }
 
 @font-face {
     font-family: 'Source Sans Pro';
-    src: local('Source Sans Pro Bold Italic'), local('SourceSansPro-BoldIt'), url(./fonts/sourcesanspro/sourcesansprobolditalic.woff2) format('woff2'), url(./fonts/sourcesanspro/sourcesansprobolditalic.woff) format('woff'), url(./fonts/sourcesanspro/sourcesansprobolditalic.ttf) format('truetype');
+    src: local('Source Sans Pro Bold Italic'), local('SourceSansPro-BoldIt'), url(../fonts/sourcesanspro/sourcesansprobolditalic.woff2) format('woff2'), url(../fonts/sourcesanspro/sourcesansprobolditalic.woff) format('woff'), url(../fonts/sourcesanspro/sourcesansprobolditalic.ttf) format('truetype');
     font-weight: 700;
     font-style: italic
 }
 
 @font-face {
     font-family: 'Source Sans Pro';
-    src: local('Source Sans Pro Black'), local('SourceSansPro-Black'), url(./fonts/sourcesanspro/sourcesansproblack.woff2) format('woff2'), url(./fonts/sourcesanspro/sourcesansproblack.woff) format('woff'), url(./fonts/sourcesanspro/sourcesansproblack.ttf) format('truetype');
+    src: local('Source Sans Pro Black'), local('SourceSansPro-Black'), url(../fonts/sourcesanspro/sourcesansproblack.woff2) format('woff2'), url(../fonts/sourcesanspro/sourcesansproblack.woff) format('woff'), url(../fonts/sourcesanspro/sourcesansproblack.ttf) format('truetype');
     font-weight: 900;
     font-style: normal
 }
 
 @font-face {
     font-family: 'Source Sans Pro';
-    src: local('Source Sans Pro #000 Italic'), local('SourceSansPro-BlackIt'), url(./fonts/sourcesanspro/sourcesansproblackitalic.woff2) format('woff2'), url(./fonts/sourcesanspro/sourcesansproblackitalic.woff) format('woff'), url(./fonts/sourcesanspro/sourcesansproblackitalic.ttf) format('truetype');
+    src: local('Source Sans Pro #000 Italic'), local('SourceSansPro-BlackIt'), url(../fonts/sourcesanspro/sourcesansproblackitalic.woff2) format('woff2'), url(../fonts/sourcesanspro/sourcesansproblackitalic.woff) format('woff'), url(../fonts/sourcesanspro/sourcesansproblackitalic.ttf) format('truetype');
     font-weight: 900;
     font-style: italic
 }
@@ -86,16 +86,16 @@
     font-family: roboto-example;
     font-weight: 400;
     font-style: normal;
-    src: url(./fonts/RobotoRegular/RobotoRegular.eot);
-    src: url(./fonts/RobotoRegular/RobotoRegular.eot?#iefix) format("embedded-opentype"), url(./fonts/RobotoRegular/RobotoRegular.woff) format("woff"), url(./fonts/RobotoRegular/RobotoRegular.ttf) format("truetype")
+    src: url(../fonts/RobotoRegular/RobotoRegular.eot);
+    src: url(../fonts/RobotoRegular/RobotoRegular.eot?#iefix) format("embedded-opentype"), url(../fonts/RobotoRegular/RobotoRegular.woff) format("woff"), url(../fonts/RobotoRegular/RobotoRegular.ttf) format("truetype")
 }
 
 @font-face {
     font-family: roboto-example;
     font-weight: 700;
     font-style: normal;
-    src: url(./fonts/RobotoBold/RobotoBold.eot);
-    src: url(./fonts/RobotoBold/RobotoBold.eot?#iefix) format("embedded-opentype"), url(./fonts/RobotoBold/RobotoBold.woff) format("woff"), url(./fonts/RobotoBold/RobotoBold.ttf) format("truetype")
+    src: url(../fonts/RobotoBold/RobotoBold.eot);
+    src: url(../fonts/RobotoBold/RobotoBold.eot?#iefix) format("embedded-opentype"), url(../fonts/RobotoBold/RobotoBold.woff) format("woff"), url(../fonts/RobotoBold/RobotoBold.ttf) format("truetype")
 }
 
 *, ::after, ::before {
@@ -3439,7 +3439,7 @@ header .workhwr-wrapper {
 }
 
 .with-icon.mail-wrapper:before {
-    background: url(./img-webp/src/mail.png) no-repeat;
+    background: url(../img-webp/src/mail.png) no-repeat;
     background-position: 7px 6px
 }
 
@@ -3448,12 +3448,12 @@ header .workhwr-wrapper {
 }
 
 .with-icon.adress-wrapper:before {
-    background: url(./img-webp/src/place.png) no-repeat;
+    background: url(../img-webp/src/place.png) no-repeat;
     background-position: 9px 2px
 }
 
 .with-icon.phone-wrapper:before {
-    background: url(./img-webp/src/call.png) no-repeat;
+    background: url(../img-webp/src/call.png) no-repeat;
     background-position: 2px 8px
 }
 
@@ -3612,7 +3612,7 @@ ul.main-nav li:first-of-type a:before {
 }
 
 .bg-main {
-    background: url(./img-webp/src/bg.png) no-repeat;
+    background: url(../img-webp/src/bg.png) no-repeat;
     background-position: center -20px;
     min-height: 930px;
     overflow: visible;
@@ -3646,7 +3646,7 @@ ul.main-nav li:first-of-type a:before {
 
 .part.expert {
     margin-top: 90px;
-    background: url(./img-webp/src/big-bg2.png) no-repeat;
+    background: url(../img-webp/src/big-bg2.png) no-repeat;
     min-height: 1190px;
     background-position: center top;
     color: #fff;
@@ -3718,7 +3718,7 @@ ul.main-nav li:first-of-type a:before {
 }
 
 .part.workwith {
-    background: url(./img-webp/src/bg-work.jpg) no-repeat;
+    background: url(../img-webp/src/bg-work.jpg) no-repeat;
     min-height: 840px;
     padding-top: 180px;
     top: -125px;
@@ -3735,7 +3735,7 @@ ul.main-nav li:first-of-type a:before {
 }
 
 .part.questions {
-    background: url(./img-webp/src/bg-questions.png) no-repeat;
+    background: url(../img-webp/src/bg-questions.png) no-repeat;
     background-position: center top;
     min-height: 660px;
     top: -45px;
@@ -3828,7 +3828,7 @@ hr {
 }
 
 .part.how-it-works-bg {
-    background: url(./img-webp/src/gb-callus.png) no-repeat;
+    background: url(../img-webp/src/gb-callus.png) no-repeat;
     background-position: center top;
     min-height: 1282px;
     position: relative;
@@ -3840,7 +3840,7 @@ hr {
     content: '';
     width: 237px;
     height: 194px;
-    background: url(./img-webp/src/step-start.png) no-repeat;
+    background: url(../img-webp/src/step-start.png) no-repeat;
     position: absolute;
     top: -28px;
     left: 25px;
@@ -3851,7 +3851,7 @@ hr {
     content: '';
     width: 237px;
     height: 101px;
-    background: url(./img-webp/src/step-next.png) no-repeat;
+    background: url(../img-webp/src/step-next.png) no-repeat;
     position: absolute;
     top: 60px;
     left: 21px
@@ -3861,7 +3861,7 @@ hr {
     content: '';
     width: 185px;
     height: 195px;
-    background: url(./img-webp/src/step-end.png) no-repeat;
+    background: url(../img-webp/src/step-end.png) no-repeat;
     position: absolute;
     top: -30px;
     left: 25px
@@ -3912,7 +3912,7 @@ ul.no-padding {
 }
 
 .have-a-question {
-    background: url(./img-webp/src/last-question.png);
+    background: url(../img-webp/src/last-question.png);
     min-height: 552px;
     color: #fff;
     margin-top: 70px;
@@ -3933,7 +3933,7 @@ ul.no-padding {
 }
 
 .part.footer {
-    background: url(./img-webp/src/footer-bg.png) no-repeat;
+    background: url(../img-webp/src/footer-bg.png) no-repeat;
     padding-top: 45px;
     padding-bottom: 45px;
     color: #fff
